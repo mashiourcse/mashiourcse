@@ -13,7 +13,7 @@
 
 - 📄 My website: [https://mashiour.netlify.app/](https://mashiour.netlify.app/)
 
-- ⚡ Quote to live by: **"The most important thing in life is to have FUN! No matter what you do how much you accomplish, in the end, you are going to lose everything".**
+- ⚡ Quote to live by: **"The most important thing in life is to have FUN! No matter what you do how much you accomplish, in the end, you are going to lose everything."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
