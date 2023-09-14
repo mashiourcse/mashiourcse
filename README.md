@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mashiour.cseiiuc@gmail.com**
 
-- 📄 My website: [https://mashiour.netlify.app/](https://mashiour.netlify.app/)
+- 📄 My website: [https://mashiourcse-portfolio.vercel.app/](https://mashiourcse-portfolio.vercel.app/)
 
 - ⚡ Quote to live by: **"The most important thing in life is to have FUN! No matter what you do how much you accomplish, in the end, you are going to lose everything."**
 
