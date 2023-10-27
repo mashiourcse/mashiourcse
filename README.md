@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mashiourcse](https://github.com/mashiourcse)
 
-- 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA**
+- 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA And also Computer and Laptops.**
 
 - 📫 How to reach me **mashiour.cseiiuc@gmail.com**
 
