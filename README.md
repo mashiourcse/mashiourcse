@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mashiour.cseiiuc@gmail.com**
 
-- 📄 My website: [https://mashiourcse-portfolio.vercel.app/](https://mashiourcse-portfolio.vercel.app/)
+- 📄 My website: [https://mashiour.netlify.app/](https://mashiour.netlify.app/)
 
 - 📄 <a href="https://drive.google.com/file/d/10UGN5F8BBnacQUUJudYB3ZvyH2skNTfN/view" target="_blank" >Download</a> Resume
   
