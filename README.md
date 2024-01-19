@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiourcse&label=Profile%20views&color=0e75b6&style=flat" alt="mashiourcse" /> </p>
 
-- 🌱 I’m currently learning **Javascript, SQA , Math, Machine Learning Concept**
+- 🌱 I’m currently learning **Javascript, SQA , Math, Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mashiourcse](https://github.com/mashiourcse)
 
