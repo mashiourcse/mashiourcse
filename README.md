@@ -17,7 +17,7 @@
 
 - 📄 <a href="https://drive.google.com/file/d/10UGN5F8BBnacQUUJudYB3ZvyH2skNTfN/view" target="_blank" >Download</a> Resume
   
-- ⚡ Quote to live by: **"The most important thing in life is to have FUN! No matter what you do how much you accomplish, in the end, you are going to lose everything."**
+- ⚡ Quote to live by: **"Stay Hard!."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
