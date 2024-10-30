@@ -17,7 +17,7 @@
 
 - 📄 <a href="https://drive.google.com/file/d/10UGN5F8BBnacQUUJudYB3ZvyH2skNTfN/view" target="_blank" >Download</a> Resume
   
-- ⚡ Quote to live by: **"Stay Hard!."**
+- ⚡ Quote: **"Freedom is the right of all sentient beings."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
