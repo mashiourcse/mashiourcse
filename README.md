@@ -5,7 +5,7 @@
 
 - 🌱 Professional Web Developer
 
-- 📄 Leetcode: https://leetcode.com/mashXleetcode/ \n
+- 📄 Leetcode: https://leetcode.com/mashXleetcode/ <br>
   UVa: https://uhunt.onlinejudge.org/id/926995
   Codeforces: https://codeforces.com/profile/Big_Mash
 
