@@ -5,8 +5,6 @@
 
 - 🌱 Professional Web Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/mashiourcse](https://github.com/mashiourcse)
-
 - 📄 Leetcode: https://leetcode.com/mashXleetcode/ UVa: https://uhunt.onlinejudge.org/id/926995
 
 - 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA And also Computer and Laptops.**
