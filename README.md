@@ -5,7 +5,9 @@
 
 - 🌱 Professional Web Developer
 
-- 📄 Leetcode: https://leetcode.com/mashXleetcode/ UVa: https://uhunt.onlinejudge.org/id/926995
+- 📄 Leetcode: https://leetcode.com/mashXleetcode/
+  UVa: https://uhunt.onlinejudge.org/id/926995
+  Codeforces: https://codeforces.com/profile/Big_Mash
 
 - 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA And also Computer and Laptops.**
 
