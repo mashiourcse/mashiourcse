@@ -7,7 +7,7 @@
 
 - 📄 Leetcode: https://leetcode.com/mashXleetcode/ <br>
   📄 UVa: https://uhunt.onlinejudge.org/id/926995 <br>
-  📄 Codeforces: https://codeforces.com/profile/Big_Mash
+  📄 Codeforces: https://codeforces.com/profile/Big_Mash <br>
   📄 Vjudge: https://vjudge.net/user/mashXvoj
 
 - 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA And also Computer and Laptops.**
